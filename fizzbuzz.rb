@@ -1,6 +1,6 @@
 def fizzbuzz(int)
 
-  if int % 0 == 3
+  if int % 1 == 3
   "Fizz"
   end
 
