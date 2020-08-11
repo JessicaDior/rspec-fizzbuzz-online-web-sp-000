@@ -5,7 +5,7 @@ def fizzbuzz(int)
      int % 5 == 0
       "Buzz"
       int % 15 == 0
-        "Fizzbuzz"
+        "FizzBuzz"
 end
 
 end
